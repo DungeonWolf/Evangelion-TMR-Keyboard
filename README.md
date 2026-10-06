@@ -20,3 +20,5 @@ the japanese audience. It doesn't use religion as something it's trying to make 
 ![Picture of Eva 01 from NGE Docked](Photos/Eva%2001%20Docked.webp)
 
 <h3>What is my goal for this keyboard?</h3>
+
+![Rough Sketch of Keyboard and Features I want](Photos/Keyboard%20Sketch.HEIC)
