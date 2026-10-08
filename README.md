@@ -15,7 +15,7 @@ I'm glad you asked. Neon Genesis Evangelion is an anime from 1995 and a manga fr
 deeper. Each character has a deep emotional struggle they're battling, like depression, Lack of Identity and PTSD. The show also uses religion to describe the otherworldly beings (which are called
 angels), but it's mainly used as an aesthetic. I was trying to see if it had more meaning in the show, but it's mainly because Hideaki Anno (the creator) liked it and thought it could form an interest to
 the japanese audience. It doesn't use religion as something it's trying to make you believe, it's just there. I could go on for a while talking about this show, but it's too much to type and read. Here's a few pictures of the show below. <br>
-<br> <br>
+<br>
 
 ![Picture of Eva 01 from NGE Side Profile](Photos/Eva%2001%20Side%20Profile.avif) 
 <br>
