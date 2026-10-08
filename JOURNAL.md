@@ -22,7 +22,7 @@
 
 **2.5h**
 
-I wrote a lot for my github page in the readme markdown file. I added many photos and sketched out a few drawings for what my plan would be for both my macropad and keyboard. I will not be focusing on the keyboard until another time because it will take too long for me to learn how to make a 100% keyboard from scratch and with TMR sensors. I will still use TMR though, because it will serve as a chance to learn how to route it and what I need for designing the keyboard later. It's also fun too. You can check out the rest of the readme on my github repo that is linked here somewhere.
+I wrote a lot for my github page in the readme markdown file. I added many photos and sketched out a few drawings for what my plan would be for both my macropad and keyboard. I will not be focusing on the keyboard until another time because it will take too long for me to learn how to make a 100% keyboard from scratch and with TMR sensors. I will still use TMR though, because it will serve as a chance to learn how to route it and what I need for designing the keyboard later. It's also fun too. You can check out the rest of the readme on my github repo that is linked here somewhere. (wrote on hack club half life project page)
 
 ![Screenshot 2026-10-07 182503](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/XfbjbKUMmNnN8s8VHJN995LrGHeVhi8y/00189b70450627f3fe6d7aa81c2fa36b526eec606cde9f2d9028d89f21637de1.png)
 
