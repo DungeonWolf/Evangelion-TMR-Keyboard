@@ -7,18 +7,17 @@ I am making a keyboard that is Neon Genesis Evangelion themed. I've had this ide
 
 <h3>What is a TMR Keyboard?</h3>
 
-Similar to a Hall Effect keyboard and unlike an analog keyboard, TMR and Hall Effect Keyboards use magnets to detect whether a key is pressed down. Think of it being similar to pressing 
-a button versus pressing down a scale, but once the scale gets to a certain weight, it activates something else. That is also why they are better than analog, because you can adjust where that 
-activation point is. I also chose TMR because when I was researching Hall Effect keyboards, I kept hearing that TMR is more accurate and responsive, and who doesn't want that? Comparison between TMR and Hall Effect below.
+Similar to a Hall Effect keyboard and unlike an analog keyboard, TMR and Hall Effect Keyboards use magnets to detect whether a key is pressed down. Think of it being similar to pressing a button versus pressing down a scale, but once the scale gets to a certain weight, it activates something else. That's also why they are better than analog, because you can adjust where that activation point is. I also chose TMR because when I was researching Hall Effect keyboards, I kept hearing that TMR is more accurate and responsive, and who doesn't want that? TMR Switch Diagram below. <br> <br>
 ![TMR Key Diagram](Photos/tmr%20key%20diagram.png)
 
 <h3>What is Neon Genesis Evangelion?</h3>
 I'm glad you asked. Neon Genesis Evangelion is an anime from 1995 and a manga from 1994. On the surface, it's just a robot fighting and protecting earth from otherworldly threats, but it goes so much
 deeper. Each character has a deep emotional struggle they're battling, like depression, Lack of Identity and PTSD. The show also uses religion to describe the otherworldly beings (which are called
 angels), but it's mainly used as an aesthetic. I was trying to see if it had more meaning in the show, but it's mainly because Hideaki Anno (the creator) liked it and thought it could form an interest to
-the japanese audience. It doesn't use religion as something it's trying to make you believe, it's just there. I could go on for a while talking about this show, but it's too much to type and read. Here's a few pictures of the show below.
+the japanese audience. It doesn't use religion as something it's trying to make you believe, it's just there. I could go on for a while talking about this show, but it's too much to type and read. Here's a few pictures of the show below. <br>
 
 ![Picture of Eva 01 from NGE Side Profile](Photos/Eva%2001%20Side%20Profile.avif) 
+<br>
 ![Picture of Eva 01 from NGE Docked](Photos/Eva%2001%20Docked.webp)
 
 <h3>What is my goal for this keyboard?</h3>
