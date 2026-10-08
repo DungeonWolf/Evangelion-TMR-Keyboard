@@ -27,7 +27,7 @@ My plan for this keyboard is to have a small display screen, a knob to control i
 ![Rough Sketch of Keyboard and Features I want](Photos/Keyboard_Sketch.jpg)
 
 <br>
-__________________________________________________________________
+_________________________
 
 
 <h3>What is my plan for the macropad?</h3>
