@@ -14,11 +14,11 @@
 
 ## Contents
 
-1. [2026-10-07 – I wrote a lot for my github page in the readme markdown file. I added many photos and sketched out a few drawings for what my plan would be for both my macropad and keyboard. I will not be focusing on](#2026-10-07-i-wrote-a-lot-for-my-github-page-in-the-readme-ma)
+1. [2026-10-07 – I wrote a lot for my github page in the readme markdown file. I added many photos and sketched out a few drawings for what my plan would be for both my macropad and keyboard. I will not be focusing on the keyboard for a while](#2026-10-07-i-wrote-a-lot-for-my-github-page-in-the-readme-ma)
 
 ## Design
 
-### 2026-10-07 – I wrote a lot for my github page in the readme markdown file. I added many photos and sketched out a few drawings for what my plan would be for both my macropad and keyboard. I will not be focusing on
+### 2026-10-07 – I wrote a lot for my github page in the readme markdown file. I added many photos and sketched out a few drawings for what my plan would be for both my macropad and keyboard. I will not be focusing on the keyboard for a while.
 
 **2.5h**
 
