@@ -22,6 +22,6 @@ the japanese audience. It doesn't use religion as something it's trying to make 
 
 <h3>What is my goal for this keyboard?</h3>
 
-![Rough Sketch of Keyboard and Features I want](Photos/Keyboard%20Sketch.HEIC)
+![Rough Sketch of Keyboard and Features I want](Photos/Keyboard_Sketch.jpg)
 
 My plan for this keyboard is to have a small display screen, a knob to control it, a way to customize the actuation point of keys and RGB with the display and knob, and have a replaceable or magnetic frame that you can switch out for whatever color you want. All of this is in the rough sketch above, and I later hope to design the keyboard for smaller sizes.
