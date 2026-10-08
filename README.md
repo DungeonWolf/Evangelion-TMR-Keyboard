@@ -32,5 +32,6 @@ _________________________
 
 <h3>What is my plan for the macropad?</h3>
 My plan for the macropad (because I don't have enough time to do the full keyboard) will be to have indicator lights for being muted on discord, caps lock, in call, or an incoming dm from someone, shortcut keys for undo (ctrl + z), redo (ctrl + y) or (ctrl + shift + z), delete key (del), and backspace (backspace), muting / unmuting discord microphone, leaving / joining call (I only use one voice channel on discord), opening an incoming dm on discord, switching windows (alt + tab), and if I can, I will also add RGB. Random order of things, but it's fine.
+<br><br>
 
 ![Sketch of Macropad](Photos/macropad_sketch.jpg)
