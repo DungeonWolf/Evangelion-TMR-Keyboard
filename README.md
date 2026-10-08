@@ -3,7 +3,7 @@
 <h2>Evangelion Themed TMR Keyboard</h2>
 
 I am making a keyboard that is Neon Genesis Evangelion themed. I've had this idea for a long time since I saw the Melgeek Evangelion keyboards which are like 500$, who can afford that?? Especially a teenager like me with no job, so why don't I just make my own? This keyboard will probably end up being more like an easily customizable keyboard. I’m not doing anything too fancy besides the keycaps which will really put the keyboard together, and the screen and knob will be customizable.
-Note: For Hack Club Half Life, I will be making a small macropad first because I don't have enough time for a full keyboard. I will pick back up on it and then make the keyboard later on.
+<br> Note: For Hack Club Half Life, I will be making a small macropad first because I don't have enough time for a full keyboard. I will pick back up on it and then make the keyboard later on.
 
 <h3>What is a TMR Keyboard?</h3>
 
