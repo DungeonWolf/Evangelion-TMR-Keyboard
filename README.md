@@ -10,7 +10,7 @@ I am making a keyboard that is Neon Genesis Evangelion themed. I've had this ide
 Similar to a Hall Effect keyboard and unlike an analog keyboard, TMR and Hall Effect Keyboards use magnets to detect whether a key is pressed down. Think of it being similar to pressing 
 a button versus pressing down a scale, but once the scale gets to a certain weight, it activates something else. That is also why they are better than analog, because you can adjust where that 
 activation point is. I also chose TMR because when I was researching Hall Effect keyboards, I kept hearing that TMR is more accurate and responsive, and who doesn't want that? Comparison between TMR and Hall Effect below.
-![TMR and Hall Effect Switch Comparison Image](Photos/IMG_1577.png)
+![TMR Key Diagram](Photos/tmr%20key%20diagram.png)
 
 <h3>What is Neon Genesis Evangelion?</h3>
 I'm glad you asked. Neon Genesis Evangelion is an anime from 1995 and a manga from 1994. On the surface, it's just a robot fighting and protecting earth from otherworldly threats, but it goes so much
