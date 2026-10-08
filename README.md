@@ -25,3 +25,10 @@ My plan for this keyboard is to have a small display screen, a knob to control i
 <br> <br>
 
 ![Rough Sketch of Keyboard and Features I want](Photos/Keyboard_Sketch.jpg)
+
+<br>
+_____________________________________________________________________________________________________________________________________________
+
+
+<h3>What is my plan for the macropad?</h3>
+My plan for the macropad (because I don't have enough time to do the full keyboard) will be to have a small knob to control volume or whatever I'd like, shortcut keys for undo (ctrl + z), redo (ctrl + y) or (ctrl + shift + z), delete key (del), and backspace (backspace). If I can, I will also add RGB and/or indicator lights for being muted on discord, caps lock, in call, or an incoming dm from someone. Random order of things, but it's fine.
