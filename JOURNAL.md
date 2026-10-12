@@ -31,7 +31,7 @@ I wrote a lot for my github page in the readme markdown file. I added many photo
 
 ![Screenshot 2026-10-07 182532](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/XfbjbKUMmNnN8s8VHJN995LrGHeVhi8y/4db812b0d0d2eedc9483ad3ba40821bb4384c03b1a7c71815d4e9798b8b33063.png)
 
-### 2026-10-08 – In this session, I managed to use the Keyboard Layout Editor website for the first time and used it to make a mock up of what I'd like my design for my macropad to look like. It's not the prettiest th
+### 2026-10-08 – In this session, I managed to use the Keyboard Layout Editor website for the first time and used it to make a mock up of what I'd like my design for my macropad to look like. It's not the prettiest thing or the final result, but so far it looks really good.
 
 **1.5h**
 
