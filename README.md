@@ -1,4 +1,4 @@
-![Fabricate Logo](Photos/IMG_1587.png) <br> <br>
+![Fabricate Logo](Photos/IMG_2123.png) <br> <br>
 
 <h2>Evangelion Themed TMR Keyboard</h2>
 
